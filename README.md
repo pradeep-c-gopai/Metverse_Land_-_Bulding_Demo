@@ -14,5 +14,8 @@
 * Now connect the metamask account in which relevant polygon mumbai network has some matic in it.
 * And put number '0' in the payableAmount(MATIC) field and put number '1' in the _mintAmount(uint256) field, and click on write option. On doing so you will be able to see previous number of buildings plus one building in the scene.
 
+#### Note: 
+No need of installing three as it is already been embedded in 'three.js' file which is located in the 'Metverse_Land_-_Bulding_Demo/Metaverse_Land_&_Bulding_Demo/'.
+
 ### Snapshots of working project:
 * Link: https://postimg.cc/gallery/7HvcJrR
